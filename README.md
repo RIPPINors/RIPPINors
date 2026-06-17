@@ -4,7 +4,7 @@
 <!-- Image -->
 
 <!-- Stats 
-[![GitHub Streak](https://streak-stats.demolab.com?user=RIPPInors&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 -->
 <!-- Icons
 https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white
