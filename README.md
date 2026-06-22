@@ -1,12 +1,6 @@
 <p align="center">
-  <a href="https://github.com/RIPPINors">
-    <img src="https://github.com/RIPPINors.png" width="150" style="border-radius: 50%;" alt="Antoni" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=9A0000&width=435&lines=WELCOME+TO+MY+PROFILE" alt="RIPPINORS" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&pause=1000&color=007AFF&width=500&lines=WELCOME+TO+MY+PROFILE" alt="RIPPINORS" />
   </a>
 </p>
 
@@ -20,16 +14,16 @@
 
 <br/>
 
-<h2>📕 Top Projects</h2>
+<h2>📘 Top Projects</h2>
 <p align="center">
   <a href="https://github.com/RIPPINors/Dron">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RIPPINors&repo=Dron&theme=tokyonight&show_icons=true" alt="Drone Project">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RIPPINors&repo=Dron&theme=ocean_dark&show_icons=true" alt="Drone Project">
   </a>
   <a href="https://github.com/RIPPINors/Robot_pro_jar">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RIPPINors&repo=Robot_pro_jar&theme=tokyonight&show_icons=true" alt="AI_Robot">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RIPPINors&repo=Robot_pro_jar&theme=ocean_dark&show_icons=true" alt="AI_Robot">
   </a>
   <a href="https://github.com/RIPPINors/Obsidian">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RIPPINors&repo=Obsidian&theme=tokyonight&show_icons=true" alt="Obsid_lay">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RIPPINors&repo=Obsidian&theme=ocean_dark&show_icons=true" alt="Obsid_lay">
   </a>
 </p>
 
@@ -71,9 +65,9 @@
 
 <p align="center">
   <a href="https://github.com/RIPPINors">
-    <img src="https://github-readme-stats.vercel.app/api?username=RIPPINors&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=RIPPINors&theme=ocean_dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
   </a>
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=RIPPINors&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=RIPPINors&theme=ocean_dark&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
